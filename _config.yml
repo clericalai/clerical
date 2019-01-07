@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Clerical 
+url: "http://clerical.ai"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-123745678-2
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: The Expert Systems Platform
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Clerical
+  email: clerk@clerical.ai
+  twitter: clericalai
 social:
-  name: Hydra Template
+  name: Clerical
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/clericalai
 
 # -----
 # Build
